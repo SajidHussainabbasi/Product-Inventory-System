@@ -118,6 +118,6 @@ Each product stored includes:
 
 ## 🧑‍💻 Developed By
 **Name:** Sajid Hussain  
-**Project:** Product Inventory System (User Ownership)  
+**Project:** Product Inventory System   
 **Language:** ☕ Java  
 **Date:** 27 November 2025
